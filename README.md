@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anupam Jain</h1>
+<h1 align="center">Hi there, I'm Anupam Jain 👋</h1>
 
 - 🔭 I’m currently working on **Angular and React.js**
 
